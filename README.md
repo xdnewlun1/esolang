@@ -6,9 +6,10 @@ In the cow folder I have written a COW interpreter in Python. I have also includ
 
 ## Directory Layout
 COW/
- -cow-interpreter.py
- -fs.cow
- -hw.cow
- -test.cow
- -test_nl.cow
- -test_space.cow
+│   README.md
+│   cow-interpreter.py    
+│   fs.cow
+|   hw.cow
+|   test.cow
+|   test_nl.cow
+|   test_space.cow
